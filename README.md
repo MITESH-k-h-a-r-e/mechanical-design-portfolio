@@ -19,30 +19,6 @@ This repository includes CAD files covering the core topics tested in the CSWA e
 
 ---
 
-## Repository Structure
-
-```text
-├── Parts/
-│   ├── Part_01.SLDPRT
-│   ├── Part_02.SLDPRT
-│   └── ...
-│
-├── Assemblies/
-│   ├── Assembly_01.SLDASM
-│   └── ...
-│
-├── Drawings/
-│   ├── Drawing_01.SLDDRW
-│   └── ...
-│
-├── Images/
-│   └── Model Previews
-│
-└── README.md
-```
-
----
-
 ## Skills Demonstrated
 
 * Parametric CAD Modeling
@@ -101,13 +77,4 @@ Through these models, I practiced:
 Mechanical Engineering Student
 Indian Institute of Petroleum and Energy (IIPE)
 
-GitHub: *Add your GitHub profile here*
-LinkedIn: *Add your LinkedIn profile here*
-
 ---
-
-## License
-
-This repository is intended for educational and portfolio purposes.
-
-Please do not redistribute the models as your own work.
